@@ -1,16 +1,28 @@
 # belajar_flutter
 
-A new Flutter project.
+Text Widget
+![Capture 3](https://github.com/user-attachments/assets/fae58709-e106-46a2-acd5-7c85c8e0b929)
 
-## Getting Started
+Image Widget
+![Capture 2](https://github.com/user-attachments/assets/47808971-9be2-4f8a-944c-21afed313581)
 
-This project is a starting point for a Flutter application.
+Cupertino Button dan Loading Bar
+![Capture 7](https://github.com/user-attachments/assets/5b940347-413b-4b3d-9171-59be909ffea1)
 
-A few resources to get you started if this is your first Flutter project:
+Floating Action Button (FAB)
+![Capture 8](https://github.com/user-attachments/assets/ecee36a9-c719-4768-8ce1-eb580c2adbc3)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Scaffold Widget
+![Capture 3](https://github.com/user-attachments/assets/9ae68377-4772-418f-a1b7-268b6f05ca9a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dialog Widget
+![Capture 4](https://github.com/user-attachments/assets/c23b13da-3d37-4fa1-89ed-db7a259485e1)
+
+Input dan Selection Widget
+![Capture 5](https://github.com/user-attachments/assets/33995be5-7d57-462e-9101-dab2bf276d96)
+
+Date and Time Pickers
+![Capture 6](https://github.com/user-attachments/assets/790cf66b-f06d-4ec8-a0b4-0df9715573b1)
+
+
+
